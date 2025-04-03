@@ -1,7 +1,7 @@
 import java.util.*;
 import java.security.*;
 
-public class int_to_string {
+public class IntToString {
     public static void main(String[] args) {
 
         DoNotTerminate.forbidExit();

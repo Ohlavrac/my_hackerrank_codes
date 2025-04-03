@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class static_initializer_block {
+public class StaticInitializerBlock {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
